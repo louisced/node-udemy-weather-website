@@ -1,4 +1,4 @@
-console.log('Client side is curently running')
+// console.log('Client side is curently running')
 
 const weatherForm = document.querySelector('form')
 const search = document.querySelector('input')
